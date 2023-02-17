@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Q Start</string>
+    <string name="greeting">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+
+    <string name="q1">There are eight seas</string>
+    <string name="q2">There are seven contintents</string>
+    <string name="q3">2+3 = 6</string>
+    <string name="q4">(equal? (cube 3) 27)</string>
+    <string name="q5">Mount Everest is the tallest mountain in the world</string>
+    <string name="q6">The Golden Gate Bridge is located in New York</string>
+    <string name="q7">The Pacific Ocean is the largest ocean in the world</string>
+    <string name="q8">JFK Airport is the largest airport in the United States</string>
+    <string name="q9">The Missouri River is the longest river in the United States</string>
+    <string name="q10">15 US States share a border with Canada</string>
+
+
+</resources>

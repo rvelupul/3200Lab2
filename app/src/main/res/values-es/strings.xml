@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q1">Hay ocho mares</string>
+    <string name="q2">Hay siete continentes.</string>
+    <string name="q3">2+3 = 6</string>
+    <string name="q4">(igual? (cubo 3) 27)</string>
+    <string name="q5">El monte Everest es la montaña más alta del mundo</string>
+    <string name="q6">El puente Golden Gate se encuentra en Nueva York</string>
+    <string name="q7">El Océano Pacífico es el océano más grande del mundo.</string>
+    <string name="q8">El aeropuerto JFK es el aeropuerto más grande de los Estados Unidos</string>
+    <string name="q9">El río Missouri es el río más largo de los Estados Unidos.</string>
+    <string name="q10">15 Estados Unidos comparte frontera con Canadá</string>
+</resources>
